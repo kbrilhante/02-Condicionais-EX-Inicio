@@ -134,4 +134,7 @@
   <VirtualDirectory Name="src">
     <File Name="main.c"/>
   </VirtualDirectory>
+  <Dependencies Name="Debug"/>
+  <Dependencies Name="Release"/>
+  <Dependencies Name="Run"/>
 </CodeLite_Project>
