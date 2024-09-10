@@ -16,7 +16,7 @@
     Exemplos:
     1996 é bissexto
     1845 não é bissexto
-    2023 é bissexto
+    2024 é bissexto
     1900 não é bissexto
     2000 é bissexto
 */
