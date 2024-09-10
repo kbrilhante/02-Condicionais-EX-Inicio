@@ -51,7 +51,7 @@ int main(int argc, char **argv)
 /*
 	Elabore um algoritmo que calcule o valor a ser pago de uma mercadoria 
 	+------------------+-------------------+
-	|  Pagamento      | Desconto          |
+	|  Pagamento       | Desconto          |
 	|  Dinheiro        | 15%               | 
 	|  Crédito a vista | 10%               | 
 	|  Parcelado       | Preço da etiqueta |
